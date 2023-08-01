@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.exe
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.deps.json
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.dll
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\netcoreapp3.1\FileHandlingDemo.pdb
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.dll
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.pdb
+C:\Users\DELL\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\netcoreapp3.1\FileHandlingDemo.genruntimeconfig.cache
